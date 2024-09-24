@@ -1,0 +1,16 @@
+"Metric","Spearman_Rank","P_value"
+"Total_Enrolled_Students",0.439889969642176,3.72732001011902e-06
+"Community.Type",0.456038987525204,1.45862618260789e-06
+"Property.Wealth",0.322285257558839,0.000955156290322224
+"X..of.Students.Identify.as.Caucasian",-0.386508287404388,6.00716737243666e-05
+"X..of.Students.Enrolled.in.ESL.Classes",-0.116946081786049,0.241774646517172
+"Total.Staff..FTE.",0.433882951207075,5.82136526240976e-06
+"Total.Number.of.Teachers..FTE.",0.43916763603524,4.3419965248785e-06
+"X.Staff....Central.Administrative",-0.499401107667407,9.13674259496172e-08
+"X.Staff....School.Administritative",-0.24656347951018,0.012483451244119
+"X..of.teachers.who.Identify.as.Caucasian",-0.431038603629868,6.10987441310245e-06
+"Total.Operating.and.Other.Revenue..2020.2021.....",0.44083403840477,3.53302354449727e-06
+"Total.Operating.and.Other.Revenue.per.Pupil..2020.2021.....",-0.319081152512945,0.00108030990747569
+"X..of.School.Nurses",0.552164307814781,2.59723983318481e-09
+"Median.Household.Income..if.required..can.family.afford.hat.sunscreen....Community",0.441831535425848,4.68939265737221e-06
+"Teacher.Turnover.Rate",-0.0110167648371094,0.91249192210644
