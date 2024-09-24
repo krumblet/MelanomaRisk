@@ -1,0 +1,28 @@
+# Table 1. Univariate Spearman’s Rank Correlations Between School District Characteristics and Total Sun-Protection Policy Strength Score (N = 102 school districts)
+
+| District Characteristics                                      | Total Policy Strength Score* |
+|---------------------------------------------------------------|------------------------------|
+| Percentage of school nurses                                   | 0.56***                      |
+| Percentage of staff central administration                    | -0.52***                     |
+| Percentage of female students                                 | 0.46***                      |
+| Median household income (community)                           | 0.43***                      |
+| Tax rate                                                      | 0.37***                      |
+| Median household income (parents)                             | 0.37***                      |
+| Percentage of graduating students                             | -0.34***                     |
+| Property wealth                                               | 0.27**                       |
+| Percentage of students who are Caucasian                      | -0.25**                      |
+| Percentage of staff school administration                     | -0.23*                       |
+| Percentage of students in Gifted/Talented education           | 0.22*                        |
+| Total enrolled students                                       | 0.21*                        |
+| Total Operating Revenue (2020-21)                             | 0.21*                        |
+| Percentage of enrolled ESL students                           | -0.21*                       |
+| Number of full-time teachers                                  | 0.20*                        |
+| Community type                                                | 0.19*                        |
+| Percentage of teachers who are Caucasian                      | -0.17                        |
+| Total full-time staff                                         | 0.17                         |
+| Attendance rate                                               | 0.15                         |
+| Percentage of students on free/reduced lunch                  | -0.15                        |
+| Total Operating Revenue per Pupil (2020-21)                   | -0.08                        |
+| Teacher turnover rate                                         | 0.06                         |
+
+\* Sum of strength across policy components regardless of intent.
